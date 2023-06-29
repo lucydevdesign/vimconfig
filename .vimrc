@@ -14,6 +14,8 @@ Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'tpope/vim-fugitive'
+Plugin 'jiangmiao/auto-pairs'
+
 call vundle#end()
 filetype plugin indent on
 
