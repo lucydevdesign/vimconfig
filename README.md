@@ -1,7 +1,7 @@
 # vimconfig
 This is my personal vim config featuring autocomplete, snippets, vim airline
 and git support
-## required plugins
+##featured plugins
 
 1. Vundle
 2. Vim-airline
@@ -9,5 +9,5 @@ and git support
 4. Ultisnips
 5. Vim-airline-themes
 6. Vim-Fugitive
-
+7. Auto-pairs
 
