@@ -11,10 +11,13 @@ and git support
 5. Vim-airline-themes
 6. Vim-Fugitive
 7. Auto-pairs
+## Installation
+
+Build YouCompleteMe then simply open vim and run :PluginInstall then restart vim
 
 ## note for YouCompleteMe
 
-YouCompleteMe requires additional setup before use. it must first be built using
+Before running :PluginInstall YouCompleteMe requires additional setup before use. it must first be built using
 python and executing install.py or the shell script install.sh
 
 ## requirements
