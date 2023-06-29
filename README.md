@@ -13,7 +13,7 @@ and git support
 7. Auto-pairs
 ## Installation
 
-Build YouCompleteMe then simply open vim and run :PluginInstall then restart vim
+Build YouCompleteMe, then simply open vim and run :PluginInstall then restart vim
 
 ## note for YouCompleteMe
 
